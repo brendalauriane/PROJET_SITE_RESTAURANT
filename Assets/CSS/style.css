@@ -1,0 +1,12 @@
+#basic{
+    background: #fff;
+    color: #fff;
+    font-family: sans-serif;
+}
+
+.header{
+    background:linear-gradient(rgba(0,0,0,0)) ;
+    height:100vh ;
+    background-size:cover ;
+    background-position: center;
+}
