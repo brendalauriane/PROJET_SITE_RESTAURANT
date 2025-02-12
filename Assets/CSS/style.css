@@ -1,0 +1,33 @@
+.liter-regular {
+    font-family: "Liter", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  .cc-navbar{
+    background-color: rgba(0,0,0, 0.55);
+    font-family: "Liter", serif;
+    box-shadow: 1px,1px,3px rgba(255,255,255,0.54);
+  }
+
+  .cc-navbar .nav-link{
+    border-bottom:1px solid transparent ;
+    transition: padding-bottom .4s ease-in-out, border-color .3s ease
+  }
+
+  .cc-navbar .nav-link:hover{
+    padding-bottom: 20px;
+    border-color: #20c997;
+  }
+
+  .btn-order{
+    color: #20c997;
+    border-color:#20c997;
+    transition:0.5s;
+  }
+
+  .btn-order:hover,
+  .btn-order:active{
+    color:#fff;
+    background-color: #20c997;
+  }
