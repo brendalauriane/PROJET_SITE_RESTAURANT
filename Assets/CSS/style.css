@@ -25,6 +25,12 @@
     background-size: cover;
     height: 800px;
   }
+
+  .banner .banner-desc{
+    font-size: 48px;
+    font-weight: 400;
+    color: #fff;
+  }
   .btn-order{
     color: #20c997;
     border-color:#20c997;
