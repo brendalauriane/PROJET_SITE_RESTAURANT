@@ -8,6 +8,7 @@
     background-color: rgba(0,0,0, 0.55);
     font-family: "Liter", serif;
     box-shadow: 1px,1px,3px rgba(255,255,255,0.54);
+    z-index: 99;
   }
 
   .cc-navbar .nav-link{
