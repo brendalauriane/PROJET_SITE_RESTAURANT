@@ -54,3 +54,15 @@
   .order{
     color: #20c997;
   }
+
+  /* Footer */
+footer {
+  background-color: rgba(0, 0, 0, 0.55);
+  font-family: "Liter", serif;
+  box-shadow: 1px,1px,3px rgba(255,255,255,0.54);
+  text-align: center;
+  padding: 1rem;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+}
